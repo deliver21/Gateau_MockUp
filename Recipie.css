@@ -72,7 +72,7 @@ div.merge
 .recipetab
 {
     position: absolute; bottom: 0;
-    max-width: 100%; 
+    width: 100%; 
     height: 80px;
     color:white;
      background-color: #6c829dc0; 
